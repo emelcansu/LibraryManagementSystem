@@ -32,9 +32,12 @@ Veritabanı: MySQL
 IDE: IntelliJ IDEA  
 Yapı Aracı: Maven   
 Diyagramlar: Use Case, 
+
 ![use-case](https://github.com/user-attachments/assets/71a3b0ef-fd58-4b24-a8d0-64afdc797a27)
 
+
 Class ,
+
 <img width="979" height="924" alt="class-diagram" src="https://github.com/user-attachments/assets/4c126d49-f8d6-4244-995e-5b3a739ac3f7" />
 
 Sequence, 
